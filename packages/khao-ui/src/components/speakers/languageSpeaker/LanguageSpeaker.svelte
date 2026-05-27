@@ -78,7 +78,7 @@
 
 {#if transliteration}
   {#if rendersDefinition}
-    "<dfn>{transliteration}</dfn>"
+    <dfn>"{transliteration}"</dfn>
   {:else}
     "{transliteration}"
   {/if}

@@ -1,5 +1,11 @@
 # Changelog
 
+## 4.23.2
+
+### Patch Changes
+
+- Fix `LanguageSpeaker` definition quotes rendering — move the surrounding `"` characters inside the `<dfn>` element so they inherit the italic style along with the transliteration text.
+
 ## 4.23.1
 
 ### Patch Changes
